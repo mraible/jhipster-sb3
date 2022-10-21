@@ -1,0 +1,32 @@
+<div class="d-flex justify-content-center">
+  <div class="col-8">
+    <div *ngIf="project">
+      <h2 data-cy="projectDetailsHeading"><span myPrefixTranslate="jhipsterSampleApplicationApp.project.detail.title">Project</span></h2>
+
+      <hr />
+
+      <my-prefix-alert-error></my-prefix-alert-error>
+
+      <my-prefix-alert></my-prefix-alert>
+
+      <dl class="row-md jh-entity-details">
+        <dt><span myPrefixTranslate="global.field.id">ID</span></dt>
+        <dd>
+          <span>{{ project.id }}</span>
+        </dd>
+        <dt><span myPrefixTranslate="jhipsterSampleApplicationApp.project.name">Name</span></dt>
+        <dd>
+          <span>{{ project.name }}</span>
+        </dd>
+      </dl>
+
+      <button type="submit" (click)="previousState()" class="btn btn-info" data-cy="entityDetailsBackButton">
+        <fa-icon icon="arrow-left"></fa-icon>&nbsp;<span myPrefixTranslate="entity.action.back">Back</span>
+      </button>
+
+      <button type="button" [routerLink]="['/project', project.id, 'edit']" class="btn btn-primary">
+        <fa-icon icon="pencil-alt"></fa-icon>&nbsp;<span myPrefixTranslate="entity.action.edit">Edit</span>
+      </button>
+    </div>
+  </div>
+</div>

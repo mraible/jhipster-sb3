@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Krijo një të ri Project",
+        "createOrEditLabel": "Krijo ose përpuno një Project",
+        "notFound": "No Projects found"
+      },
+      "created": "Një Project i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Project u përpunua me identifikues {{ param }}",
+      "deleted": "Një Project u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

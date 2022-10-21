@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Project",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Project",
+        "notFound": "No Projects found"
+      },
+      "created": "Ένα νέο Project έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Project έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Project έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Project {{ id }};"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "නව Project එකක් සාදන්න",
+        "createOrEditLabel": "Project සාදන්න හෝ සංස්කරණය කරන්න",
+        "notFound": "Projects හමු නොවීය"
+      },
+      "created": "{{ param }} හඳුනාගැනීමෙන් නව Project සාදනු ලැබේ",
+      "updated": "{{ param }} හඳුනාගැනීමෙන් Project යාවත්කාලීන වේ",
+      "deleted": "{{ param }} හඳුනාගැනීමෙන් Project මකා දමනු ලැබේ",
+      "delete": {
+        "question": "Project {{ id }} මකා දැමීමට ඔබට විශ්වාසද?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

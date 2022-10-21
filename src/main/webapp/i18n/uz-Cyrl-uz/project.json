@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Project қўшиш",
+        "createOrEditLabel": "Projectни таҳрирлаш",
+        "notFound": "No Projects found"
+      },
+      "created": "Project {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Project сақланди.",
+      "deleted": "{{ param }}- Project ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Projectни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

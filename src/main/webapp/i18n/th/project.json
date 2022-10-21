@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง Project",
+        "createOrEditLabel": "สร้างหรือแก้ไข Project",
+        "notFound": "No Projects found"
+      },
+      "created": "Project ถูกสร้างด้วย {{ param }}",
+      "updated": "Project ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Project ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

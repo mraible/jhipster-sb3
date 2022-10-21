@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Project",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Project",
+        "notFound": "No Projects found"
+      },
+      "created": "Một Project mới được tạo với định danh {{ param }}",
+      "updated": "Một Project cập nhật với định danh {{ param }}",
+      "deleted": "Một Project đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

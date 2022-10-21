@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Creeare o nouă entitate Project",
+        "createOrEditLabel": "Creeare sau editare Project",
+        "notFound": "No Projects found"
+      },
+      "created": "A fost creată o nouă entitate Project cu identificatorul {{ param }}",
+      "updated": "Project cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Project cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

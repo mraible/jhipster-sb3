@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Стварыць новы Project",
+        "createOrEditLabel": "Стварыць або адрэдагаваць Project",
+        "notFound": "No Projects found"
+      },
+      "created": "Новы Project створан з ідэнтыфікатарам {{ param }}",
+      "updated": "Project абноўлен з ідэнтыфікатарам {{ param }}",
+      "deleted": "Project выдален з ідэнтыфікатарам {{ param }}",
+      "delete": {
+        "question": "Вы ўпэўнены, што жадаеце выдаліць Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

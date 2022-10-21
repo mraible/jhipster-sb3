@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Värskenda nimekirja",
+        "createLabel": "Lisa uus Project",
+        "createOrEditLabel": "Lisa või muuda Project",
+        "notFound": "Ei leitud ühtegi Projects"
+      },
+      "created": "Uus Project on loodud identifikaatoriga {{ param }}",
+      "updated": "Project identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Project identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

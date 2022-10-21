@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Skapa en ny Project",
+        "createOrEditLabel": "Skapa eller ändra en Project",
+        "notFound": "No Projects found"
+      },
+      "created": "En ny Project är skapad med id {{ param }}",
+      "updated": "En Project är uppdaterad med id  {{ param }}",
+      "deleted": "En Project är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "project": {
+      "home": {
+        "title": "Projects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Pridať Project",
+        "createOrEditLabel": "Pridať alebo upraviť Project",
+        "notFound": "No Projects found"
+      },
+      "created": "Bol vytvorený potomok entity Project s identifikátorom {{ param }}",
+      "updated": "Potomok entity Project s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Project s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Project {{ id }}?"
+      },
+      "detail": {
+        "title": "Project"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}
